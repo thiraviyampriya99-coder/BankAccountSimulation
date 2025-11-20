@@ -1,0 +1,8 @@
+Savings Account - Withdrawal Failed! Not enough balance.
+Current Balance: 6000.0
+
+Transaction History:
+Account created with balance: 5000.0
+Deposited: 2000.0
+Savings Withdrawal Successful: 1000.0
+Failed Withdrawal in Savings: 8000.0
